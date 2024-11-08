@@ -1,3 +1,7 @@
+## Archived Repository
+
+**This repository was a gift from me to the Rust and open-source community. It is no longer actively maintained and has been archived. Feel free to fork and continue development on your own.**
+
 # rust_refactor
 
 A library for automated code refactoring in Rust.
@@ -40,7 +44,4 @@ This project is licensed under the MIT License
    cargo build
    ```
 ## Author
-Ben Santora <bensatlantik@gmail.com>
-
-## Donate
-https://bensatlantik.github.io/
+Ben Santora 

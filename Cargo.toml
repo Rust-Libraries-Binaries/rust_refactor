@@ -4,7 +4,7 @@ version = "0.1.1"
 edition = "2018"
 authors = ["Ben Santora <bensatlantik@gmail.com>"]
 description = "A library for automated code refactoring in Rust."
-https://github.com/Rust-Libraries-Binaries/rust_refactor.git
+repository = "https://github.com/Rust-Libraries-Binaries/rust_refactor.git"
 license = "MIT"
 
 [dependencies]
